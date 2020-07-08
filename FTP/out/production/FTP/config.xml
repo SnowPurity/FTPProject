@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+    <root>D:\site</root>
+    <user>
+        <name>admin</name>
+        <pwd>123456</pwd>
+    </user>
+    <user>
+        <name>KFC</name>
+        <pwd>8208208820</pwd>
+    </user>
+    <user>
+        <name>duck</name>
+        <pwd>ILOVEDUCK</pwd>
+    </user>
+</config>
